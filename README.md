@@ -41,6 +41,6 @@ Your feedback and suggestions are invaluable to us! If you have insights on how 
 
 Join our journey in making Cloud and DevOps education more accessible. Share your experiences, stories, and support through our channels:
 - Visit us at [KodeKloud.com](https://kodekloud.com)
-- Follow us on [Twitter](https://twitter.com/kodekloud1), [Facebook](https://www.facebook.com/kodekloud), [LinkedIn](https://www.linkedin.com/company/kodekloud/)
+- Follow us on [Twitter](), [Facebook](https://www.facebook.com/KodeKloudHQ), [LinkedIn](https://www.linkedin.com/company/kodekloud/)
 
 Thank you for choosing to explore Cloud and DevOps with us. Here's to your success and growth in this exciting field!
