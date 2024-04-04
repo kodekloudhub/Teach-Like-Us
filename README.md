@@ -28,6 +28,9 @@ Additionally:
 
 ## Attribution to KodeKloud
 
+**We'd be thrilled to see your classroom in action! Please snap a selfie of your session and share it with us on social media by tagging our page. Your moments inspire us and others to learn and grow together.**
+
+---
 We're excited to share our resources under a few simple conditions:
 - **Non-commercial use**: Our materials are meant for educational purposes and should not be used commercially.
 - **No modifications**: To maintain the integrity and quality of the information.
