@@ -5,10 +5,7 @@ Welcome to the Labs section of our course materials! Here, you'll find direct li
 ## Accessing the Labs
 
 To access the labs, you'll need to visit our labs platform. Here's how you can get started:
-
-1. Go to [KodeKloud's Free Labs Page](https://kodekloud.com/pages/free-labs).
-2. Select the lab corresponding to your course of interest:
-   - **Linux for Beginners**: [Direct Link to Linux Labs](#)
+   - **Linux for Beginners**: [Direct Link to Linux Labs](https://learn.kodekloud.com/user/courses/free-labs-linux)
 
 ## Preparing for the Labs
 
@@ -35,6 +32,6 @@ Upon completing the labs, consider the following actions to consolidate your lea
 
 ## Need Help?
 
-If you encounter any issues or have questions about the labs, feel free to reach out for support on our [community forum](#) or contact us directly through our support channels.
+If you encounter any issues or have questions about the labs, feel free to reach out for support on our [community forum](https://kodekloud.com/community/) or contact us directly through our support channels.
 
 Happy learning, and enjoy the hands-on experience!
