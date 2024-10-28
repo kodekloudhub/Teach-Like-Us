@@ -5,10 +5,6 @@ Welcome to the Labs section of our course materials! Here, you'll find direct li
 ## Accessing the Labs
 
 To access the labs, you'll need to visit our labs platform. Here's how you can get started:
-
-
-1. Go to [KodeKloud's Free Labs Page](https://kodekloud.com/pages/free-labs).
-2. Select the lab corresponding to your course of interest:
    - **Docker for Beginners**: [Direct Link to Docker Labs](https://learn.kodekloud.com/user/courses/labs-docker-for-the-absolute-beginner)
 
 ## Preparing for the Labs
