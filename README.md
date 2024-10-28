@@ -17,7 +17,6 @@ We've meticulously organized this repository by course, each dedicated to a key 
 Within each course directory, you'll find:
 - **PDFs**: Downloadable PDFs of our course materials.
 - **Labs**: Direct links to our interactive, free labs on the KodeKloud platform.
-- **Training Materials**: Additional resources including presentation slides, instructor notes, and FAQs.
 
 Additionally:
 - **General Guidance**: Insights and strategies for delivering compelling and effective training sessions.
