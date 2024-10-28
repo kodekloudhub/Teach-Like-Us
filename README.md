@@ -12,7 +12,7 @@ This repository is a cornerstone of our mission, offering a suite of our beginne
 ## Navigating the Repository
 
 We've meticulously organized this repository by course, each dedicated to a key area within Cloud and DevOps:
-- **Docker for Beginners**
+- **[Docker for Beginners](https://github.com/kodekloudhub/Teach-Like-Us/tree/main/Courses/Docker-for-Beginners)**
 - **Kubernetes for Beginners**
 - **Git for Beginners**
 - **Linux for Beginners**
