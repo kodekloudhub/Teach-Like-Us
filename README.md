@@ -1,4 +1,4 @@
-## About KodeKloud
+## Welcome to KodeKloud Teach Like Us
 
 At KodeKloud, we're passionate about demystifying the cloud and DevOps for everyone, fostering a new generation of experts ready to tackle the challenges of today's and tomorrow's tech landscape. Our mission is to provide accessible, practical, and engaging education in Cloud Computing and DevOps practices. By focusing on real-world applications and hands-on labs, we aim to empower individuals and organizations to excel in these critical areas of technology.
 
