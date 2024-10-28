@@ -7,8 +7,6 @@ Welcome to the Labs section of our course materials! Here, you'll find direct li
 To access the labs, you'll need to visit our labs platform. Here's how you can get started:
    - **Kubernetes for Beginners**: [Direct Link to Kubernetes Labs](https://learn.kodekloud.com/user/courses/labs-kubernetes-for-beginners)
 
-   *(Replace the `#` with the actual URLs to the labs for each course.)*
-
 ## Preparing for the Labs
 
 Before you dive into the labs, here are a few tips to ensure a smooth experience:
