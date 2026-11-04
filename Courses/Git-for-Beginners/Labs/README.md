@@ -5,7 +5,7 @@ Welcome to the Labs section of our course materials! Here, you'll find direct li
 ## Accessing the Labs
 
 To access the labs, you'll need to visit our labs platform. Here's how you can get started:
-   - **Git for Beginners**: [Direct Link to Git Labs](https://learn.kodekloud.com/user/courses/labs-git-for-beginners)
+   - **Git for Beginners**: [Direct Link to Git Labs](https://learn.kodekloud.com/learn/courses/git-for-beginners)
 
 ## Preparing for the Labs
 
